@@ -20,4 +20,12 @@ markdown 문법을 찾아봅시다!
 <br>
 
 #### 원본에 수정내용을 적용하고 싶으면 add 대신 push!
+<br><br>
+***
+
+# 저장소명 변경시 url 변경
+
+### git remote set -url
+<br><br>
+
 ***
