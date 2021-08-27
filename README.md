@@ -1,10 +1,10 @@
-# git 실험용 & 문제 해결
+## git 실험용 & 문제 해결
 
 <br><br><br>
 
 ---
 
-# 파일 통합 test
+## 파일 통합 test
 
 ### mkdir subtree
 
@@ -17,18 +17,6 @@
 ###### add, commit, push
 
 ### git subtree add --prefix=fileName <wantTmoveURL> branchName
-
-<br>
-
-#### 원본에 수정내용을 적용하고 싶으면 add 대신 push!
-
-<br><br>
-
----
-
-# 저장소명 변경시 url 변경
-
-### git remote set -url
 
 <br><br>
 
